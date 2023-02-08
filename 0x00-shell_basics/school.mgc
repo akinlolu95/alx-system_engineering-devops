@@ -1,4 +1,2 @@
-0	string SCHOOL this is a school file 
-:!mime text/school
 #!/bin/bash
 file --mime-type -m school.mgc
