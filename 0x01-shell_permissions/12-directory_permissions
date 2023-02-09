@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -m u=rwx g=r-x o=--x mydir
